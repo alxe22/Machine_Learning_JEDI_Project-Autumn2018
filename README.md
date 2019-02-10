@@ -11,6 +11,14 @@ Using all the data available we decided to predict whether a subject would be ar
 
 ## What we have learned
 
+A lot of things. To mention some:
+* How to work with Colaboratory enviroment
+* Python libraries used in Machine Learning such as Pandas, Matplotlib, Numpy, etc
+* Different Machine Learning models
+* How to clean a dataset in order to transform it to something a program can understand
+* How to set up different models and check out their accuracy
+* How to program a basic Neural Network
+
 ## Instructions on how to execute it
 
 ## License
