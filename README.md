@@ -44,5 +44,5 @@ Do you whant to suggest us anything? Did you find anything that could be improve
 Feel free to read, use or modify all or part of my work without giving me any credit at all. This activity was the final project for an extracurricular course I took during my summer holidays at my university. If you are interested in learning Android or want to learn more visit, the following [https://jediupc.com/cursos/](link).
 
 <p align="center">
-<img src="https://i.imgur.com/Gt475nT.jpg" width="200" height="200"/>
+<img src="https://i.imgur.com/Gt475nT.jpg" width="240" height="200"/>
 </p>
