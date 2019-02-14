@@ -21,4 +21,21 @@ A lot of things. To mention some:
 
 ## Instructions on how to execute it
 
+1. Clone this repository in your local repositories using git.
+
+```
+git clone [url repositori]
+```
+
+2. Add Collaboratory in your Google Drive account.
+![image](https://user-images.githubusercontent.com/30463479/52822061-f425b500-30b0-11e9-9a62-1dfa27a8346a.png)
+
+3. Upload to your Google Drive account the finalDocument.ipynb and open it with Collaboratory.
+
+4. Upload the dataset into your Collaboratory virtual enviroment to start experimenting with our results.
+
+Do you whant to suggest us anything? Did you find anything that could be improved? Don't be shy and open a new Issue telling us what could be done better 😊 
+
 ## License
+
+Feel free to read, use or modify all or part of my work without giving me any credit at all. This activity was the final project for an extracurricular course I took during my summer holidays at my university. If you are interested in learning Android or want to learn more visit, the following [https://jediupc.com/cursos/](link).
