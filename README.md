@@ -24,7 +24,7 @@ A lot of things. To mention some:
 1. Clone this repository in your local repositories using git.
 
 ```
-git clone [url repositori]
+git clone https://github.com/alxe22/Machine_Learning_JEDI_Project-Autumn2018.git
 ```
 
 2. Add Collaboratory in your Google Drive account.
